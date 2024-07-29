@@ -11,10 +11,6 @@ A distro-agnostic* toolbox which helps with everyday Linux tasks. It can help yo
 
 ## 💡 Usage
 
-Open your terminal and paste this command
-```bash
-curl -fsSL https://christitus.com/linux | sh
-```
 
 ## 💖 Support
 - To morally and mentally support the project, make sure to leave a ⭐️!
